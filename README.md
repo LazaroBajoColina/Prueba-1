@@ -1,2 +1,2 @@
-# Prueba-1
-Repositorio en donde subiré todos mis programas.
+Repositorio c++
+Repositorio en donde subiré mis programas en realizadps en c++.
